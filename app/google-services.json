@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345467115120",
+    "project_id": "webshopgyakorlasv2",
+    "storage_bucket": "webshopgyakorlasv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345467115120:android:df8fc3cebd6fdd89c806b5",
+        "android_client_info": {
+          "package_name": "com.example.webshopgyakorlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345467115120-jjl4henp4s7jeaofmkrgpnr9p883b8gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webshopgyakorlas",
+            "certificate_hash": "50f162a55f32c8e1200196f6677dc7dc8c17f8bc"
+          }
+        },
+        {
+          "client_id": "345467115120-3hdmle080aosa6romvv59m1k8gtli8dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7-Jw_UB3U8aim8m05H8nn_VNnGvlrF4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345467115120-3hdmle080aosa6romvv59m1k8gtli8dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

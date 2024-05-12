@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WebshopGyakorlas" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/main</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="Theme.WebshopGyakorlas" parent="Base.Theme.WebshopGyakorlas" />
+
+</resources>

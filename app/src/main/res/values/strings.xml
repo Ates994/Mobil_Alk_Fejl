@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Autóalkatrész Shop</string>
+    <string name="name">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password2">Jelszó megerősítés</string>
+    <string name="cancel">Mégsem</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="buyer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírás</string>
+    <string name="default_web_client_id">DefaultWebClient</string>
+    <string name="item_placeholder">Név</string>
+    <string name="item_info_placeholder">Leírás a termékről</string>
+    <string name="cartButton">Kosárba</string>
+    <string name="log_out_btn">Kijelentkezés</string>
+    <string name="settings_btn">Beállítások</string>
+    <string name="cart_btn">Kosár</string>
+    <string name="search_bar">Keresés</string>
+    <string name="login_as_guest">Bejelentkezés vendégként</string>
+    <string name="bejelentkez_s_google_fi_kkal">Bejelentkezés Google fiókkal</string>
+    <string name="activity_register_H1">Regisztrálj új felhasználót</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb </item>
+
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Termék1</item>
+        <item>Termék2</item>
+        <item>Termék3</item>
+        <item>Termék4</item>
+        <item>Termék5</item>
+        <item>Termék6</item>
+        <item>Termék7</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>TermékLeírás1</item>
+        <item>TermékLeírás2</item>
+        <item>TermékLeírás3</item>
+        <item>TermékLeírás4</item>
+        <item>TermékLeírás5</item>
+        <item>TermékLeírás6</item>
+        <item>TermékLeírás7</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/felni1</item>
+        <item>@drawable/felni2</item>
+        <item>@drawable/felni3</item>
+        <item>@drawable/felni4</item>
+        <item>@drawable/gt_turbo</item>
+        <item>@drawable/leomlo</item>
+        <item>@drawable/paragi</item>
+    </array>
+
+    <string-array name="shopping_item_price">
+        <item>100.000 Ft</item>
+        <item>150.000 Ft</item>
+        <item>200.000 Ft</item>
+        <item>100.000 Ft</item>
+        <item>100.500 Ft</item>
+        <item>163.000 Ft</item>
+        <item>104.550 Ft</item>
+    </string-array>
+</resources>
